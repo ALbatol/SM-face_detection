@@ -5,6 +5,7 @@ Use OpenCV to make a real time face detection
 Fisrt, I have downloaded the python3.9 from https://www.python.org/downloads.
 Then I have downloaded visual Studio Code editor in ordere to write and edit the code from https://code.visualstudio.com/. 
 After that, I have installed the opencv using the command Prompt by typing "pip install opencv-python" and used " haarcascade_frontalface_default.xml" library in my code.
+I have also downloaded Flask using the command "pip install Flask" and other required libraries.
 
 
 Now there are tow python files one is "detect_face_video.py" where it will display a reatime window in which will detect any faces there. To run it open the command Promp and the copy the folder path in ordere to access it by using "cd file path" command.
